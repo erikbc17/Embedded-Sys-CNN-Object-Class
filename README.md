@@ -1,2 +1,4 @@
-# IMU-sensor-classifier
-• Collected real time data (> 1.4k points) for training of RNN in the interpretation of sequential data from IMU sensor positioning &amp; accelerometer readings (TensorFlow). • Tested, validated, &amp; deployed a Recurrent Neural Network trained for the real time ID of posture with data from IMU sensor (Arduino Nano33).
+# Computer Vision & Audio classification for disaster relief
+• Designing a CNN embedded ML model for the ID of limbs & breathing for disaster triage (LRU, LSTM, Keras).
+• Compiled custom dataset to train CNN model & prevent overfitting using dropout/regularization skills (Python).
+• Deployed TFLite model on Arduino Nano33 using quantization for embedded ML systems (Python,C,C++, Arduino IDE, TensorFlow Lite).
